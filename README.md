@@ -2,7 +2,7 @@
 
 The official repo of IEEE University of Piraeus SB Ethical Hacking team.
 
-<img src="https://raw.githubusercontent.com/ieee-unipi-sb/Ethical-Hacking/refs/heads/main/assets/papaki.png" alt="hacker papaki" style="zoom: 25%;" />
+<img src="https://raw.githubusercontent.com/ieee-unipi-sb/Ethical-Hacking/refs/heads/main/assets/papaki.png" alt="hacker papaki" width="256" height="256" />
 
 ---
 
