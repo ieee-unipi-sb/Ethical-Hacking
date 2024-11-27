@@ -8,7 +8,7 @@ The official repo of IEEE University of Piraeus SB Ethical Hacking team.
 
 | Workshop             | Material                                                     |
 | -------------------- | ------------------------------------------------------------ |
-| 1. Network Forensics | [Slides](https://github.com/ieee-unipi-sb/Ethical-Hacking/blob/main/Workshop%201%20-%20Network%20Forensics/Network%20Forensics.pdf) |
+| 1. Network Forensics | [Slides](https://github.com/ieee-unipi-sb/Ethical-Hacking/blob/main/Workshop%201%20-%20Network%20Forensics/Network%20Forensics.pdf), [.pcap files](https://github.com/ieee-unipi-sb/Ethical-Hacking/tree/main/Workshop%201%20-%20Network%20Forensics/.pcap%20files) |
 
 *We would always love to hear your feedback [here](https://forms.gle/UcWnmqZSgw16C7d16)!*
 
