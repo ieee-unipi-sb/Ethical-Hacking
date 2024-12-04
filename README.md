@@ -14,6 +14,6 @@ The official repo of IEEE University of Piraeus SB Ethical Hacking team.
 
 ### Guides
 
-- [Linux Installation Guide](https://github.com/ieee-unipi-sb/Ethical-Hacking/wiki/Linux-Installation-Guide)
+- [Linux & Wordlist Installation Guide](https://github.com/ieee-unipi-sb/Ethical-Hacking/wiki/Linux-Installation-Guide)
 
 *We would always love to hear your feedback [here](https://forms.gle/UcWnmqZSgw16C7d16)!*
