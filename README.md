@@ -6,12 +6,12 @@ The official repo of IEEE University of Piraeus SB Ethical Hacking team.
 
 ---
 
-| Workshop                            | Material                                                     |
-| ----------------------------------- | ------------------------------------------------------------ |
-| 1. Network Forensics                | [Slides](https://github.com/ieee-unipi-sb/Ethical-Hacking/blob/main/Workshop%201%20-%20Network%20Forensics/Network%20Forensics.pdf), [pcap files](https://github.com/ieee-unipi-sb/Ethical-Hacking/tree/main/Workshop%201%20-%20Network%20Forensics/.pcap%20files) |
-| 2. SQL Injection                    | [Slides](https://github.com/ieee-unipi-sb/Ethical-Hacking/blob/main/Workshop%202%20-%20SQL%20Injection/SQL%20Injection.pdf) |
-| 3. Linux Basics & Password Cracking | Linux Basics: [Slides](https://github.com/ieee-unipi-sb/Ethical-Hacking/blob/main/Workshop%203%20-%20Linux%20Basics%20%26%20Password%20Cracking/Linux%20Basics.pdf), <br />Password Cracking: [Slides](https://github.com/ieee-unipi-sb/Ethical-Hacking/blob/main/Workshop%203%20-%20Linux%20Basics%20%26%20Password%20Cracking/Password%20Cracking.pdf), [Files](https://github.com/ieee-unipi-sb/Ethical-Hacking/tree/main/Workshop%203%20-%20Linux%20Basics%20%26%20Password%20Cracking/pwd%20cracking%20files) |
-| 4. Web Exploitation                 |                                                              |
+| Workshop                            | Material                                                     | Author                                                       |
+| ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1. Network Forensics                | [Slides](https://github.com/ieee-unipi-sb/Ethical-Hacking/blob/main/Workshop%201%20-%20Network%20Forensics/Network%20Forensics.pdf), [pcap files](https://github.com/ieee-unipi-sb/Ethical-Hacking/tree/main/Workshop%201%20-%20Network%20Forensics/.pcap%20files) | Sofia Filippatou                                             |
+| 2. SQL Injection                    | [Slides](https://github.com/ieee-unipi-sb/Ethical-Hacking/blob/main/Workshop%202%20-%20SQL%20Injection/SQL%20Injection.pdf) | [Orestis Karapiperis](https://github.com/orestiskarap)       |
+| 3. Linux Basics & Password Cracking | Linux Basics: [Slides](https://github.com/ieee-unipi-sb/Ethical-Hacking/blob/main/Workshop%203%20-%20Linux%20Basics%20%26%20Password%20Cracking/Linux%20Basics.pdf), <br />Password Cracking: [Slides](https://github.com/ieee-unipi-sb/Ethical-Hacking/blob/main/Workshop%203%20-%20Linux%20Basics%20%26%20Password%20Cracking/Password%20Cracking.pdf), [Files](https://github.com/ieee-unipi-sb/Ethical-Hacking/tree/main/Workshop%203%20-%20Linux%20Basics%20%26%20Password%20Cracking/pwd%20cracking%20files) | [Orestis Karapiperis](https://github.com/orestiskarap), Sofia Filippatou |
+| 4. Web Exploitation                 | [Slides](https://github.com/ieee-unipi-sb/Ethical-Hacking/blob/main/Workshop%204%20-%20Web%20Exploitation/Web%20Exploitation.pdf) | [Orestis Karapiperis](https://github.com/orestiskarap)       |
 
 ### Guides
 
